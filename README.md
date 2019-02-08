@@ -10,7 +10,7 @@
 
 ### hints 
 
-* the ceter text in the template uses a trick from link #2
+* the center text in the template uses a trick from link #2
 * the imges are to be positioned as `absolute` in order to place them correctly. 
 
 ### extra work

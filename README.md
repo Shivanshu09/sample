@@ -12,6 +12,7 @@
 
 * the center text in the template uses a trick from link #2
 * the imges are to be positioned as `absolute` in order to place them correctly. 
+* for making buttons render side by side either use lists and make `display: inline` or use a parent and child `<div>` and set parent's display to `display: inline-flex`|`flex`.                                                                       
 
 ### extra work
 
